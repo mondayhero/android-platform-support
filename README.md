@@ -26,7 +26,7 @@ Monday Hero for Android is now in Private Beta!
 
 ## The Company
 
-[Monday Hero, Inc.](https://mondayhero.io/about) is the company currently backing Monday Hero. [Hire us](mailto:hi@mondayhero.io)
+[Monday Hero, Inc.](https://mondayhero.io/about) is the company developing Monday Hero. [Hire us](mailto:hi@mondayhero.io)
 
 ## Contribute to Monday Hero App for Android Platform
 
