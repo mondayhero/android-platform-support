@@ -49,4 +49,5 @@ Install Android Studio for [Mac](https://developer.android.com/studio)
 
 ## Invite your designer colleague to your Android project 🚀
 
-You can invite your designer colleague on project card, by sending invitation via email. She/he can upload designs via Monday Hero - Sketch plugin. Plugin will be automatically downloaded and install by installing Monday Hero Mac App. If you can not see Monday Hero plugin under Sketch Plugins menu, you can manually [download](http://mondayhero.io/downloadplugin).
+You can invite your designer colleague on project card, by sending invitation via email on Monday Hero. 
+She/he can upload designs via Monday Hero - Sketch plugin. Plugin will be automatically downloaded and install by installing Monday Hero Mac App. If you can not see Monday Hero plugin under Sketch Plugins menu, you can manually [download](http://mondayhero.io/downloadplugin).
